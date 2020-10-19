@@ -53,10 +53,11 @@ let student_list = [
 {name:"Luis",from:"ﾍﾟﾙｰ",hobby:"フットサル"},
 {name:"ヨッシー",from:"青森",hobby:"？"},
 {name:"yuko",from:"京都",hobby:"インスタ"},
-{name:"yudai",from:"栃木",hobby:"パチンコ"},
-{name:"yutaka",from:"沖縄",hobby:"勉強"},
+{name:"yudai",from:"大阪",hobby:"パチンコ"},
+{name:"yutaka",from:"千葉",hobby:"勉強"},
 {name:"ai",from:"兵庫",hobby:"おいしいものを食べる"},
 {name:"shinya",from:"新木場",hobby:"ｼﾞｰﾏﾆｰ豆腐"}
+{name:"このみ",from:"千葉",hobby:"ディズニー"}
 ];
 
 console.log(student_list[0]["name"]);
